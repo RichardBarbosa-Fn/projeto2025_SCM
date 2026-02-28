@@ -1,1 +1,2 @@
-# projeto2025_SCM
+# Este projeto é para a aula de Gerenciamento de Configuração
+
